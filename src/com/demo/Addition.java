@@ -21,6 +21,10 @@ public class Addition {
 		x = 50;
 		y = 50;
 		System.out.println("Addition is " + (x + y));
+		//conflict example
+		x = 60;
+		y = 60;
+		System.out.println("Addition is " + (x + y));
 
 	}
 
