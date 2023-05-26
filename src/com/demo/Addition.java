@@ -9,6 +9,10 @@ public class Addition {
 		x = 30;
 		y = 30;
 		System.out.println("Addition is " + (x + y));
+		//add data from git hub 
+		x = 40;
+		y = 40;
+		System.out.println("Addition is " + (x + y));
 
 	}
 
